@@ -1,3 +1,1 @@
-1.
- Welcome,
-## Step 1: Add headers
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
